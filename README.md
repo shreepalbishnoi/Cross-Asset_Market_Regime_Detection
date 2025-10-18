@@ -87,14 +87,8 @@ This project requires a free API key from the Federal Reserve Economic Data (FRE
 You can run either the Python script or walk through the Jupyter Notebook.
 
 ```bash
-# To run the script
-python regime_detection_script.py
-
-# To use the notebook
-jupyter notebook regime_detection_notebook.ipynb
+jupyter notebook fin_proj.ipynb
 ```
 
 The script will execute the full pipeline and generate the plots showcasing the regimes and backtest results.
 
-```
-```
