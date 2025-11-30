@@ -18,7 +18,7 @@ The core thesis is that by dynamically shifting allocations based on the prevail
 
 The plot below shows the model's output, shading the S&P 500 price history according to the predicted market regime. This visual validation is the centerpiece of the analysis.
 <img width="4465" height="2362" alt="market_regimes" src="https://github.com/user-attachments/assets/addb0157-b491-4f0c-8d77-fe49aad79df3" />
-<img width="4462" height="2362" alt="backtest_performance" src="https://github.com/user-attachments/assets/b0668c89-645e-4b68-b6e6-c666a33ba791" />
+<img width="1489" height="790" alt="backtest_performance" src="https://github.com/user-attachments/assets/60099afa-c27c-4d7d-addd-a4a4dd7eb770" />
 
 
 ---
