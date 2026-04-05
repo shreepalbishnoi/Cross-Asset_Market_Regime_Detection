@@ -1,4 +1,4 @@
-# HMM-Market_Regime_Detector
+# Cross-Asset Market Regime Detection
 Applying unsupervised learning (HMM) to financial time-series to uncover hidden market states. This project develops and evaluates a regime-based trading strategy against the S&amp;P 500 benchmark.
 Of course. Let's level up your GitHub project to make it stand out for quant roles.
 
